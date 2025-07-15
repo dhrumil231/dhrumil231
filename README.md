@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👋 Hi there, I'm Dhrumil Shah</h1>
 <p align="center">
 

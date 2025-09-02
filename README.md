@@ -74,12 +74,9 @@ A/B Testing, Hypothesis Testing, Time Series Analysis, Regression Models, Descri
 
 **Syracuse University**, New York, USA  
 *M.S. in Engineering Management* (Jan 2024 – Dec 2025)  
-GPA: 3.3/4.0  
 
 **NMIMS – MPSTME**, Mumbai, India  
 *B.Tech in Computer Engineering* (2016 – 2022)  
-GPA: 3.3/4.0  
-
 ---
 
 ## 📫 Let's Connect!
@@ -87,6 +84,7 @@ GPA: 3.3/4.0
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhrumil-shah-101853215/)
 - 📨 Email: dhrumil132000@gmail.com
 - 🌐 Portfolio / Website: https://github.com/dhrumil231
+- Tableau Public profile: https://public.tableau.com/app/profile/dhrumil.shah8355/vizzes
 - 📌 Open to roles in: **Data Analysis | Business Analysis | Product Analytics | Project Management**
 
 

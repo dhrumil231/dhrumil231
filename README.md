@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about blending **data, strategy, and techno
 
 ## 🔍 About Me
 
-- 💼 Currently pursuing **M.S. in Engineering Management** at **Syracuse University** (GPA: 3.4/4.0)
+- 💼 Currently pursuing **M.S. in Engineering Management** at **Syracuse University**
 - 🧠 Former **Business Analyst at Angel One**, where I led real-time data analytics initiatives and built performance dashboards for trading platforms
 - 📊 Proficient in transforming raw data into actionable insights using **Python, SQL, Tableau, Power BI**, and more
 - 🔁 Experienced in managing cross-functional projects using **Agile/Scrum**, **Jira**, **MS Project**, and **Confluence**

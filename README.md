@@ -38,7 +38,7 @@ seeking: Data Analyst | Business Analyst | Product Analyst roles (H1B Sponsorshi
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

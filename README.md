@@ -21,14 +21,14 @@
 <div align="center">
 
 ```yaml
-name: Dhrumil Shah
-title: Data Analytics Professional | Engineering Management Graduate Student
-location: Syracuse, NY → Open to US Relocation
-experience: 3.5+ years as Senior Business Analyst @ Angel One
-education: MS Engineering Management @ Syracuse University (Dec 2025)
-specialization: [SQL, Python, Tableau, Statistical Modeling, Business Intelligence]
-seeking: Data Analyst | Business Analyst | Product Analyst (H1B Sponsorship Required)
-availability: January - February 2026
+Name: Dhrumil Shah
+Title: Data Analytics Professional | Engineering Management Graduate Student
+Location: Syracuse, NY → Open to US Relocation
+Experience: 3.5+ years as Senior Business Analyst @ Angel One
+Education: MS Engineering Management @ Syracuse University (Dec 2025)
+Specialization: [SQL, Python, Tableau, Statistical Modeling, Business Intelligence]
+Seeking: Data Analyst | Business Analyst | Product Analyst (H1B Sponsorship Required)
+Availability: January - February 2026
 ```
 
 </div>

@@ -18,16 +18,122 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```yaml
 name: Dhrumil Shah
-located_in: Syracuse, New York, USA
-originally_from: Mumbai, India 🇮🇳
-current_education: MS in Engineering Management @ Syracuse University
-graduation: December 2025
-previous_role: Senior Business Analyst @ Angel One (India's Largest Trading Platform)
-focus_areas: [Data Analytics, Business Intelligence, Product Analytics, Project Management]
-seeking: Data Analyst | Business Analyst | Product Analyst roles (H1B Sponsorship)
+title: Data Analytics Professional | Engineering Management Graduate Student
+location: Syracuse, NY → Open to US Relocation
+experience: 3.5+ years as Senior Business Analyst @ Angel One
+education: MS Engineering Management @ Syracuse University (Dec 2025)
+specialization: [SQL, Python, Tableau, Statistical Modeling, Business Intelligence]
+seeking: Data Analyst | Business Analyst | Product Analyst (H1B Sponsorship Required)
 availability: January - February 2026
+```
+
+</div>
+
+---
+
+### 💼 Professional Impact at a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Users_Served-8.5M+-blue?style=for-the-badge" alt="Users"/>
+<br><sub>Platform Scale</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Accuracy-99%25-success?style=for-the-badge" alt="Accuracy"/>
+<br><sub>Data Quality</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Efficiency-↑40%25-brightgreen?style=for-the-badge" alt="Efficiency"/>
+<br><sub>Time Saved</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Experience-3.5+_Years-orange?style=for-the-badge" alt="Experience"/>
+<br><sub>Analytics Role</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎯 Who I Am
+
+I'm a **data analytics professional** with a proven track record of turning complex datasets into clear, actionable business insights. Currently completing my **MS in Engineering Management at Syracuse University** (Dec 2025) while serving as a **Graduate Teaching Assistant** and conducting **predictive modeling research** at the NEXIS Technology Lab.
+
+**My Background**: Spent **3.5+ years at Angel One**, India's largest digital trading platform, where I built and maintained the analytics infrastructure powering decisions for **8.5M+ active users**. I specialized in:
+
+- 📊 **Real-Time Analytics**: Designed TPS monitoring systems processing millions of daily transactions
+- 🎯 **Data Quality**: Maintained **99% accuracy** across all reporting systems through robust validation
+- ⚡ **Automation**: Reduced reporting time by **40%** via optimized data pipelines
+- 🔥 **User Analytics**: Implemented **120+ Firebase events** for comprehensive journey tracking
+- 🤝 **Collaboration**: Worked cross-functionally with Product, Engineering, and Finance teams
+
+---
+
+### 💡 What Makes Me Effective
+
+**Technical Depth**: Advanced SQL (Presto, MySQL, PostgreSQL), Python (Pandas, NumPy, TensorFlow), Tableau, Power BI
+
+**Statistical Rigor**: A/B testing, hypothesis testing, regression analysis, time series forecasting, predictive modeling
+
+**Business Acumen**: Product analytics, KPI development, stakeholder management, requirements gathering
+
+**Proven Results**: Not just analysis—I build systems that scale, insights that drive decisions, and solutions that deliver ROI
+
+---
+
+### 🔬 Current Focus
+
+```python
+working_on = {
+    "🎓 Academic": "Completing MS Engineering Management (Dec 2025)",
+    "🔬 Research": "Financial forecasting with LSTM & ARIMA models",
+    "👨‍🏫 Teaching": "Graduate TA for data analytics courses",
+    "📊 Projects": "IPL Cricket Analytics Dashboard with Tableau",
+    "💼 Job Search": "Actively seeking Data/Business Analyst roles (Jan 2026)"
+}
+```
+
+---
+
+### 🌟 Why Work With Me?
+
+✅ **Proven at Scale**: Built infrastructure for 8.5M+ users, millions of daily transactions  
+✅ **Results-Driven**: 99% accuracy, 40% efficiency gains, 120+ tracking implementations  
+✅ **Full-Stack Analytics**: Data collection → Processing → Visualization → Insights  
+✅ **Business-Focused**: Bridge gap between technical execution and business value  
+✅ **Continuous Growth**: MS degree, research experience, always learning  
+
+**Open to opportunities in**: Fintech • Healthcare • Technology • E-commerce • SaaS • Data Products
+
+---
+
+### 📍 Location & Availability
+
+- **Current**: Syracuse, New York
+- **Open to**: Relocation anywhere in USA
+- **Available**: January - February 2026
+- **Visa**: Requires H1B Sponsorship
+
+---
+
+> **"I transform raw data into decisions, and ideas into measurable impact."**
+
+---
+
+
+
+
+
+
 ```
 
 💼 **Professional Journey**: Former **Senior Business Analyst at Angel One** with **3.5+ years** of experience building analytics infrastructure for **8.5M+ users**, creating real-time dashboards, and processing millions of daily transactions. Proven track record of achieving **99% data accuracy** and **40% reduction in reporting time**.

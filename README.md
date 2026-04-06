@@ -24,7 +24,7 @@
 Name: Dhrumil Shah
 Title: Data Analytics Professional | Engineering Management Graduate Student
 Location: Syracuse, NY → Open to US Relocation
-Experience:2+ years as Senior Business Analyst @ Angel One
+Experience: 2+ years as Senior Business Analyst @ Angel One
 Education: MS Engineering Management @ Syracuse University (Dec 2025)
 Specialization: [SQL, Python, Tableau, Statistical Modeling, Business Intelligence]
 Seeking: Data Analyst | Business Analyst | Product Analyst (H1B Sponsorship Required)

@@ -68,7 +68,7 @@ Availability: January - February 2026
 
 I'm a **data analytics professional** with a proven track record of turning complex datasets into clear, actionable business insights. Currently completing my **MS in Engineering Management at Syracuse University** (Dec 2025) while serving as a **Graduate Teaching Assistant** and conducting **predictive modeling research** at the NEXIS Technology Lab.
 
-**My Background**: Spent **3.5+ years at Angel One**, India's largest digital trading platform, where I built and maintained the analytics infrastructure powering decisions for **8.5M+ active users**. I specialized in:
+**My Background**: Spent **2+ years at Angel One**, India's largest digital trading platform, where I built and maintained the analytics infrastructure powering decisions for **8.5M+ active users**. I specialized in:
 
 - 📊 **Real-Time Analytics**: Designed TPS monitoring systems processing millions of daily transactions
 - 🎯 **Data Quality**: Maintained **99% accuracy** across all reporting systems through robust validation
@@ -120,18 +120,11 @@ working_on = {
 
 - **Current**: Syracuse, New York
 - **Open to**: Relocation anywhere in USA
-- **Available**: January - February 2026
-- **Visa**: Requires H1B Sponsorship
-
 ---
 
 > **"I transform raw data into decisions, and ideas into measurable impact."**
 
 ---
-
-
-
-
 
 
 ```
@@ -155,7 +148,6 @@ current_focus = {
     "🎓 Academics": "Completing MS in Engineering Management (Dec 2025)"
 }
 ```
-
 ---
 
 ## 🛠️ Tech Stack & Tools
